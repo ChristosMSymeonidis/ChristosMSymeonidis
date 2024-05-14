@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Chris and i'm a physicist
-- 👀 I’m interested in web delevopment
+- 👀 I’m interested in apps delevopment
 - 🌱 I’m currently studying electrical and computer engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
